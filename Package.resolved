@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "DifferenceKit",
+        "repositoryURL": "https://github.com/ra1028/DifferenceKit.git",
+        "state": {
+          "branch": null,
+          "revision": "62745d7780deef4a023a792a1f8f763ec7bf9705",
+          "version": "1.2.0"
+        }
+      },
+      {
         "package": "Fuzi",
         "repositoryURL": "https://github.com/cezheng/Fuzi.git",
         "state": {
@@ -12,10 +21,10 @@
       },
       {
         "package": "r2-shared-swift",
-        "repositoryURL": "https://github.com/readium/r2-shared-swift.git",
+        "repositoryURL": "https://github.com/vishalpatel-simformsolutions/r2-shared-swift.git",
         "state": {
-          "branch": "develop",
-          "revision": "7c66c3b7eb8711946b4fca4a1cce8f5ae0bc6bfe",
+          "branch": "feature/peek-iOS",
+          "revision": "25ce5480a0ba4297bb57d0ba6472c9831bdfd22e",
           "version": null
         }
       },
